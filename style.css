@@ -1,0 +1,23 @@
+.region
+{
+  padding: 20px;
+  border-style: solid;
+}
+.header
+{
+  background-color: lightcyan;
+}
+.navigation
+{
+  background-color: lightgray;
+  height: 50px;
+}
+.content
+{
+  background-color: lightsalmon;
+  height: 300px;
+}
+.footer
+{
+  background-color: lightgray;
+}
