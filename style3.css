@@ -41,3 +41,9 @@
 .content.right {
   width: 70%;
 }
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
